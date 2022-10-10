@@ -4,6 +4,7 @@
  * bubble_sort - function that implements buble sorting
  * algorithm to sort its elements
  * @array: array of integers
+ * 
  * @size: size of array
  *
  */
